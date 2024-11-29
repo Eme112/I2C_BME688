@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "log.h": "c",
+        "bme68x_defs.h": "c",
+        "bme688.h": "c"
+    }
+}

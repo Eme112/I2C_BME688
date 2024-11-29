@@ -1,0 +1,15 @@
+{
+  "board": "puk_nrf52840/nrf52840",
+  "boardRevision": "",
+  "boardDir": "/Users/emericopedrazagomez/Documents/zephyr/boards/boards/XLAB/puk_nrf52840",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": [],
+  "boardRoot": "/Users/emericopedrazagomez/Documents/zephyr"
+}
